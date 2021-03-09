@@ -22,7 +22,7 @@
         app:layout_constraintVertical_bias="0.142" />
 
     <TextView
-        android:id="@+id/show_counts"
+        android:id="@+id/show_count"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="#FFEB3B"
